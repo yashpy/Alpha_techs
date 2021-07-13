@@ -1,0 +1,46 @@
+WCE ACM STUDENT CHAPTER
+      
+        PROJECT ABSTRACT
+    WCE HACKATHON 2021
+Round 1: Idea Submission 
+
+Team Name	: Alpha_techs 
+Team Leader	: Yadnesh SDeshpande
+Theme		: HealthCare Solutions
+Track			: Expert Track
+ 
+Project Name: Gramin Doctor Aarogya Seva(GDAS)
+
+Project Abstract: 
+What problem does it solve?
+The project will be a web app is a combination of more than two similar ideas based in the healthcare sector for the rural area people. It will be proven a boon for the urgent and time-consuming availability and accessibility of physicians in the locality by providing a fast approach communication and will be based on “shortest near doctor present at moment”. In case if non-availability, it ensures the correct knowledge to patient about the illness. Moreover, solves the sanitation problem in the rural area where people die in huge numbers due to chronic diseases like diarrhea by providing access to feature In-demand for each house, constructing and approved with taluka authority.
+
+Market Research: 
+Taudhakpur, small village in Uttar-Pradesh is developing since with the same concept since months ago, in 15 days, built 248 toilets and generated 18-20 hours power-supply, so that daily purposes could be done, but due to avid region, low resources it suffers. India has just one doctor for every 1,700 people, and while 70% of the population is in rural areas, about 60% of the healthcare infrastructure is in cities. Health workers in remote areas are trained on very basic care -- they can't offer tests or consults on things like diabetes or asthma for such high rates. Also most important need is the record of database which is absent in nearly all such areas, which are a proof and need to store for redundant over which people have right.
+Technology Stack:
+PHP
+MySQL
+Bootstrap &jQuery
+Javascript-Nodejs
+HTML/CSS
+
+ Innovativeness and Show Stoppers:
+Medical treatment has made astonishing advances over the years. But the packaging and delivery of that treatment are often inefficient, ineffective, and consumer unfriendly. The well-known problems range from medical errors, which by some accounts are the eighth leading cause of death to high cost. The amount spent now represents about one-sixth of India gross domestic product; it continues to grow much faster than the economy; and it threatens the economic future of the governments, businesses, and individuals called upon to foot the bill. Despite the outlay, more than 40 million people have no health insurance. 
+1)	It ensures our safety by making a digital market in the healthcare industry (strong point).
+2)	Amid this pandemic, a large number of physicians and nurses are required, this reduces the chance of presence and saves life by preventing people to travel long distance as shown in “Manjhi-The Mountain Man” movie, and inspired from it.
+3)	enables villagers to register and monitor their requests for construction of toilets in rural areas. 
+•	Designed to eliminate communication delays and aid tracking of applications in real-time, the app uses geo-referencing and lets people wanting to own a toilet upload pictures of their premises. This data, available on the dashboard of the app, can be easily accessed by officials working at the Panchayat level and Zilla Parishad authorities.
+•	It helps them gauge the demand for toilets and make appropriate fund allocation. People can also access the implementation status of their applications.
+ 
+Approach of Development:
+Whatever is secondary, firstly we saw the hapless conditions that the rural people struggle through, we make this project by keeping in mind that demands of these people are fulfilled, since nowadays, every person uses smartphone, it let the promoter let user fetch required data: It includes at-present 
+Database of doctors
+shortest doctor interaction
+details of rural people
+sanitisation and prevention (addn work Diarrhoeal diseases caused by inadequate sanitation, and unhygienic conditions put children at multiple risks leading to vitamin and mineral deficiencies, high morbidity, malnutrition, stunting and death.)
+•	The app will be dynamic based upon the user find nearest available consultant and give feedback at minimal cost.
+•	The Time-Saving Factor for Patients and Doctors Both
+•	The Ease of Finding a Specialist Within the app.
+•	A doctor’s appointment booking system is usually combined with the platform with doctors’ profiles listing specific clinics or locations. It means that a patient can easily find a specialist if they are having a problem that needs a particular kind of expertise. Doctor profile listings in the app can put patients in touch with the right doctor without the need for time-consuming phone calls just with easy filters and search functionality.
+•	Expanded Medical Practices Offline & Online
+•	The prevalence of doctor appointment app development also means that medical practices have the time and the money to expand and thrive. This kind of software can expand the opportunity for doctors to getting more patients and experience too. Under the Deloitte report, a mobile doctor booking solution allows consulting 2 extra patients daily. As a result, it increases the provider’s profits through improving the efficiency of work and expands doctors’ experience.
