@@ -13,10 +13,15 @@ Project Name: Gramin Doctor Aarogya Seva(GDAS)
 
 Project Abstract: 
 What problem does it solve?
-The project will be a web app is a combination of more than two similar ideas based in the healthcare sector for the rural area people. It will be proven a boon for the urgent and time-consuming availability and accessibility of physicians in the locality by providing a fast approach communication and will be based on “shortest near doctor present at moment”. In case if non-availability, it ensures the correct knowledge to patient about the illness. Moreover, solves the sanitation problem in the rural area where people die in huge numbers due to chronic diseases like diarrhea by providing access to feature In-demand for each house, constructing and approved with taluka authority.
+The project will be a web app is a combination of more than two similar ideas based in the healthcare sector for the rural area people.
+It will be proven a boon for the urgent and time-consuming availability and accessibility of physicians in the locality by providing a fast approach communication and 
+will be based on “shortest near doctor present at moment”. In case if non-availability, it ensures the correct knowledge to patient about the illness. 
+Moreover, solves the sanitation problem in the rural area where people die in huge numbers due to chronic diseases like diarrhea by providing access to feature In-demand
+for each house, constructing and approved with taluka authority.
 
 Market Research: 
 Taudhakpur, small village in Uttar-Pradesh is developing since with the same concept since months ago, in 15 days, built 248 toilets and generated 18-20 hours power-supply, so that daily purposes could be done, but due to avid region, low resources it suffers. India has just one doctor for every 1,700 people, and while 70% of the population is in rural areas, about 60% of the healthcare infrastructure is in cities. Health workers in remote areas are trained on very basic care -- they can't offer tests or consults on things like diabetes or asthma for such high rates. Also most important need is the record of database which is absent in nearly all such areas, which are a proof and need to store for redundant over which people have right.
+
 Technology Stack:
 PHP
 MySQL
